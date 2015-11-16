@@ -1,0 +1,25 @@
+.svn/
+.git/
+*.bak*
+# Maven
+target/
+integration-tests/tests/fwdir/
+.repo
+# Eclipse
+eclipse_config
+.project
+.classpath
+.settings
+*/.settings
+*.class
+*/.mymetadata
+# Intelli-J
+*.iml
+*.ipl
+.idea/
+# etc
+dependency-reduced-pom.xml
+*/**/git.properties
+git.properties
+*.jar
+*.log
